@@ -1,0 +1,23 @@
+{
+  "name": "quizdeluxe-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chickenchunk579/quizdeluxe-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chickenchunk579/quizdeluxe-server/issues"
+  },
+  "homepage": "https://github.com/chickenchunk579/quizdeluxe-server#readme",
+  "dependencies": {
+    "ws": "^8.3.0"
+  }
+}
